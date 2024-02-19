@@ -1,0 +1,1 @@
+Requires Api key to work. Mission guide uses 2.5 weather api while i use 3.0 one call so to show data properly, if you dont have 3.0, you would need to edit the fetch in Weather.js to take proper values of the returned Json.
